@@ -1,4 +1,4 @@
-# SaaS Subscription Revenue & Churn Intelligence Platform 📊🚀
+# SaaS Subscription Revenue & Churn Intelligence Platform  
 
 A portfolio-grade data analytics and machine learning solution designed to model SaaS subscription lifecycles, track Monthly Recurring Revenue (MRR), evaluate customer engagement metrics, and predict churn risk using Python, SQLite, Scikit-Learn, and Power BI.
 
